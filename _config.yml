@@ -14,7 +14,7 @@ permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
-    bg:             grey
+ 
   auto_ids:         true
   footnote_nr:      1
   entity_output:    as_char
