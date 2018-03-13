@@ -66,6 +66,8 @@ medium:            '@mariengb'
 author:
   twitter: MGebe44
   
+lang: en_US
+  
 
 # Gems
 gems:
